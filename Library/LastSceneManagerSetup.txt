@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/02.unity
+  isLoaded: 1
+  isActive: 1
